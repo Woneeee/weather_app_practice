@@ -5,8 +5,8 @@
 - [x] react-router-dom
 - [x] axios
 - [x] tan-stack-query
-- [ ] styled-components
-- [ ] styled-reset
+- [x] styled-components
+- [x] styled-reset
 - [ ] react-helmet
 
 ### 작업할 내용
@@ -21,3 +21,7 @@
 - [ ] 코드 리팩토링
 - [ ] 타이틀 설정
 - [ ] 404 UI
+
+### 레퍼런스
+
+https://uxplanet.org/sky-inspired-weather-app-concept-4f1775ce4571
